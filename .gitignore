@@ -1,0 +1,7 @@
+*.csv
+*.json
+*.zip
+!data/billboard_data_1958_2021.csv
+!data/billboard_data_2021_2023.csv
+!data/unique_songs_popularity.csv
+!data_visualization/full_billboard_with_themes.csv
