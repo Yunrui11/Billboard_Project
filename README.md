@@ -72,12 +72,6 @@ We have three main sources of data.
 7. **Results presentation:** [Video](https://drive.google.com/file/d/1mR2gwaIOpgq6M0LO7jCCa_VS_OGMKr2H/view?usp=sharing)
       
 
-## Responsibilities
-- Yunrui Bao: Web-scraped and preprocessed US Billboard data for 2021-2023, developed visualization, interpretations, and explanations for sentimental analysis results, drafted proposals, and produced presentation slides. 
-- Qixin Lin: Collected and preprocessed all song lyrics from API, produced sentiment scores for lyrics using BERT, developed interpretations for sentiment analysis results, drafted proposals, and produced presentation slides.  
-- Erika Zhang: Preprocessed US Billboard data for 1958-2021, conducted data visualization, developed interpretations and narratives using sentiment scores and theme data, drafted proposals, and produced presentation slides. 
-- Tianfang Zhu: Produced themes using GPT 3.5 turbo, cleaned song lyrics and produced embeddings using GPT, conducted data visualization, developed interpretations and narratives for popularity data, wrote progress report, produced presentation slides.  
-
 <br>
 
 #### Use of AI
